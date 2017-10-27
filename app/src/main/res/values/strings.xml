@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NAC_ps4</string>
+    <string name="nome">Escreva seu nome</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="usuario">usuario</string>
+    <string name="salvar">Salvar</string>
+    <string name="lembar">lembrar</string>
+    <string name="entrar">entrar</string>
+    <string name="jogos">jogos</string>
+</resources>

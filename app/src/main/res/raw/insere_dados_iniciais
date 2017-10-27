@@ -1,0 +1,1 @@
+INSERT INTO jogos (id, nome) VALUES (1, 'Jogo 1');
